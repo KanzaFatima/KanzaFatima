@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KanzaFatima/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KanzaFatima/configure-ad)
-  - [Building Intuition for DNS](https://github.com/KanzaFatima/building intuition for dns)
+  - [Building Intuition for DNS](https://github.com/KanzaFatima/building-intuition-for-dns)
   - [Network File Shares And Permissions](https://github.com/KanzaFatima/network-file-shares-and-permissions)
 
 <h2>🤳Connect with me:</h2>
