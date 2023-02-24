@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/KanzaFatima/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/KanzaFatima/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KanzaFatima/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KanzaFatima/configure-ad)
   - [Building Intuition for DNS](https://github.com/KanzaFatima/building-intuition-for-dns)
   - [Network File Shares And Permissions](https://github.com/KanzaFatima/network-file-shares-and-permissions)
